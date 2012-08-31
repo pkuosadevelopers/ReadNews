@@ -1,0 +1,52 @@
+10
+
+dir
+40
+svn://opensource.ss.pku.edu.cn/TVOS/trunk/lihao/ReadNews/res
+svn://opensource.ss.pku.edu.cn/TVOS
+
+
+
+2012-05-11T02:31:31.716743Z
+24
+lihao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8ce43284-99e7-11e1-9753-0b7b137ee980
+
+values
+dir
+
+xml
+dir
+
+drawable
+dir
+
+drawable-hdpi
+dir
+
+anim
+dir
+
+drawable-ldpi
+dir
+
+drawable-mdpi
+dir
+
+layout
+dir
+
